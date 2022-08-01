@@ -1,4 +1,4 @@
-import java.util.Scanner;
+        import java.util.Scanner;
 
 public class Comparison {
     public static void main(String[] args) {
@@ -25,6 +25,6 @@ public class Comparison {
         if (number1 >= number2) {
             System.out.printf("%d >= %d%n", number1, number2);
         }
-        }
     }
+}
 
